@@ -1,6 +1,7 @@
 央视,#genre#
 CCTV1,https://itv.myxcwh.com:4399/200.247:5140
 CCTV1,http://101.18.31.77:808/hls/1/index.m3u8
+CCTV5,http://111.196.186.191:5555/rtp/239.3.1.173:8001
 数字,#genre#
 东方卫视,http://101.200.122.188/tv/migu.php?id=dfws
 港澳,#genre#
